@@ -1,4 +1,4 @@
-# Auditoría de Medición Digital — Cotizador SOAT Pacífico Seguros
+# Auditoría de Medición Digital — Cotizador SOAT Reconocida Aseguradora Peruana
 
 ## ¿De qué trata este proyecto?
 
